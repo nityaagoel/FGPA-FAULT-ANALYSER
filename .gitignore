@@ -1,0 +1,19 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.DS_Store
+
+# Ignore local data files
+data/
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore VSCode settings
+.vscode/
